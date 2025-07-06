@@ -1,4 +1,4 @@
-# Substack
+# Awesome Substack Tools & Posts
 A growing collection of tools & links for people interested in Substack.
 
 [StackShelf - How I Ended Up Building a Digital Shelf For Substack Creators
